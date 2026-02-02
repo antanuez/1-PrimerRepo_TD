@@ -1,3 +1,4 @@
 Nombre: Andrés
 Apellidos: Tamarit Núñez
-Fecha de Nacimiento: 30-03-2007
+Fecha de nacimiento: 30-03-2007
+Usuario GitHub: antanuez
